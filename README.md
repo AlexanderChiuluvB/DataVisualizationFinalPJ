@@ -7,6 +7,10 @@
 
 具体原理参照ppt与报告
 
+
+![image](https://github.com/AlexanderChiuluvB/DataVisualizationFinalPJ/blob/master/001.jpg)
+
+
 原理，源码参照下列博客
 脸融合
 https://www.learnopencv.com/face-morph-using-opencv-cpp-python/
