@@ -8,7 +8,8 @@
 具体原理参照ppt与报告
 
 
-![image](https://github.com/AlexanderChiuluvB/DataVisualizationFinalPJ/blob/master/001.jpg)
+我和王力宏融合
+![image](https://github.com/AlexanderChiuluvB/DataVisualizationFinalPJ/blob/master/alpha.png)
 
 
 原理，源码参照下列博客
